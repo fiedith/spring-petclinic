@@ -30,12 +30,6 @@ import javax.validation.Valid;
 import java.util.Collection;
 import java.util.Map;
 
-/**
- * @author Juergen Hoeller
- * @author Ken Krebs
- * @author Arjen Poutsma
- * @author Michael Isvy
- */
 @Controller
 class OwnerController {
 
